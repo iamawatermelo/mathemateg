@@ -48,6 +48,7 @@ Area under curve = ½ × h(Y<sub>first</sub> + Y<sub>last</sub> + 2(Y<sub>1</sub
 </pre>
 
 ## Method
+<img src="img/trapezium-rule-graph-3.svg" width="70%">
 <pre>
 Area under curve = ½ × h(Y<sub>first</sub> + Y<sub>last</sub> + 2(Y<sub>1</sub> + Y<sub>2</sub> + ... + Y<sub>n</sub>))
 </pre>
